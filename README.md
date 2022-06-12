@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# Приложение для создания и прохождения тестов
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Стек: React, TypeScript,NodeJS (12+), Yarn, Firebase, Firestore, React Router, ReactFire, Material UI, Formik
 
 ## Getting started
 
 0. Login via firebase CLI `firebase login`
 
-1. In the files `.firebaserc` and `firebase.json` replace `test-project-20210119` with **your** Firebase project name 
+1. In the files `.firebaserc` and `firebase.json` replace `test-project-20210119` with **your** Firebase project name
 
 2. In the file `src/common/firebaseConfig.ts` replace the `firebaseConfig` value with the config of the web app you created inside **your** firebase Project
 

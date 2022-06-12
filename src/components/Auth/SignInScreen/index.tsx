@@ -18,7 +18,6 @@ import { Visibility, VisibilityOff } from '@mui/icons-material';
 import * as yup from 'yup';
 import { FormikHelpers, useFormik } from 'formik';
 
-import heroImage from '../../../assets/images/Hero_image.png';
 import logo from '../../../assets/images/logo.svg';
 import { auth } from '../../../common/firebaseApp';
 import { UIContext } from '../../Unknown/UIContext';
